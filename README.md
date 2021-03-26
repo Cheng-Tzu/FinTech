@@ -10,4 +10,4 @@ Major : Data Science
 
 ## Homework
 
-[HW1] (https://github.com/Cheng-Tzu/FinTech/blob/main/HW1/HW1.md)
+[HW1](https://github.com/Cheng-Tzu/FinTech/blob/main/HW1/HW1.md)
