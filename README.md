@@ -13,3 +13,4 @@ Major : Data Science
 [HW1](https://github.com/Cheng-Tzu/FinTech/blob/main/HW1/HW1.md) - What do I think of cloud computing?
 
 [HW2](https://www.youtube.com/watch?v=KUosAX5pt_M) - Build a Website using Amazon EC2 with LAMP
+[HW3](https://www.youtube.com/watch?v=w-egxS1gUe8) - Build a Website using Amazon S3 (Versioning) and AWS Amplify
