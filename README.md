@@ -17,3 +17,5 @@ Major : Data Science
 [HW3](https://www.youtube.com/watch?v=w-egxS1gUe8) - Build a Website using Amazon S3 (Versioning) and AWS Amplify
 
 [HW4](https://www.youtube.com/watch?v=QYHDgBAm7DQ) - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
+
+[HW5](https://www.youtube.com/watch?v=uY-Uvl81hjA) - Create a Database using Amazon RDS or Amazon DynamoDB
