@@ -19,3 +19,5 @@ Major : Data Science
 [HW4](https://www.youtube.com/watch?v=QYHDgBAm7DQ) - Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
 
 [HW5](https://www.youtube.com/watch?v=uY-Uvl81hjA) - Create a Database using Amazon RDS or Amazon DynamoDB
+
+[HW6](https://www.youtube.com/watch?v=jcn2RMjJZng) - Create a Docker Container or Build your own Project Services
